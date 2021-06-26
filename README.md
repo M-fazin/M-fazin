@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [<p align="center">
 <img src="https://telegra.ph/file/b103b46cb7517478c376a.jpg">](https://telegram.dog/Ns_AnoNymouS)
 
-## I am [Fazin](https://telegram.dog/Fazinek)
+## I am [Fazin](https://telegram.dog/M_fazin)
 
 - 🔭 I’m currently working on telegram botz
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### I Am Available 👇
 
-[![Fazin Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/Fazinek)
+[![Fazin Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/M_fazin)
 
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/M-fazin/&title=Profile%20Views)
