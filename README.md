@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [<p align="center">
-<img src="https://telegra.ph/file/b103b46cb7517478c376a.jpg">](https://telegram.dog/Ns_AnoNymouS)
+<img src="https://telegra.ph/file/b103b46cb7517478c376a.jpg">](https://telegram.dog/M_fazin)
 
 ## I am [Fazin](https://telegram.dog/M_fazin)
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
 
-- 📫 How to reach me: [@Fazinek](https://telegram.dog/Fazinek)(Telegram)
+- 📫 How to reach me: [@M_fazin](https://telegram.dog/M_fazin)(Telegram)
 
 ### I Am Available 👇
 
