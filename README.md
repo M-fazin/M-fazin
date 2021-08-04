@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<p align="center">
-<img src="https://telegra.ph/file/b103b46cb7517478c376a.jpg">](https://telegram.dog/M_fazin)
 
-## I am [Fazin](https://telegram.dog/M_fazin)
+## Hey, My Name Is [M_Fazin](https://telegram.dog/M_fazin)
 
-- 🔭 I’m currently working on telegram botz
+- 🔭 I’m currently working on [EK BOTZ PROJECT](https://t.me/EKBOTZ_UPDATE) 😋.
 
 - 🌱 I’m currently learning python
 
@@ -30,18 +28,13 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [@M_fazin](https://telegram.dog/M_fazin)(Telegram)
 
-### I Am Available 👇
+### You Can Contact Me 👇
 
-[![Fazin Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/M_fazin)
-
-
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/M-fazin/&title=Profile%20Views)
+[![Fazin Telegram Bot](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/M_fazin_bot)
 
 
-### Skills 👨‍💻
+
+### Programming Language 👨‍💻
 ![Python](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg)
 
 
-### Status 📈
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=M-fazin&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
