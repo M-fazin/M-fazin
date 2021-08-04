@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Hey, My Name Is [M_Fazin](https://telegram.dog/M_fazin)
 
-- 🔭 I’m currently working on [EK BOTZ PROJECT](https://t.me/EKBOTZ_UPDATE) 😋.
+- 🔭 I’m currently working on <b>[EK BOTZ PROJECT](https://t.me/EKBOTZ_UPDATE)</b> 😋.
 
 - 🌱 I’m currently learning python
 
@@ -36,5 +36,14 @@ Here are some ideas to get you started:
 
 ### Programming Language 👨‍💻
 ![Python](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg)
+
+# Channel
+• <b>[EK BOTZ PROJECT](https://t.me/EKBOTZ_UPDATE)</b>
+
+# Support
+• <b>[EK BOTZ TALKS](https://t.me/EKBOTZ_SUPPORT)</b>
+
+# SocialMediaDL Group
+• <b>[SocialMediaDL](https://t.me/SocialMediaDL)</b>
 
 
