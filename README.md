@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### <h2 align="center">Programming Language ⚙️</h2>
 <p align="center">
-    <a href="https://www.python.org" target="_side">
+    <a href="https://www.python.org" target="_blank">
         <img
-            src="https://img.shields.io/badge/Python-red?&style=for-the-badge&logo=python"
+            src="https://img.shields.io/badge/Python-yellow?&style=for-the-badge&logo=python"
         />
 </p>
 
