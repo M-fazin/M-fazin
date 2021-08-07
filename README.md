@@ -34,8 +34,13 @@ Here are some ideas to get you started:
 
 
 
-### Programming Language 👨‍💻
-![Python](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg)
+### <h2 align="center">Programming Language ⚙️</h2>
+<p align="center">
+    <a href="https://www.python.org" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Python-black?&style=for-the-badge&logo=python"
+        />
+</p>
 
 # Channel
 • <b>[EK BOTZ PROJECT](https://t.me/EKBOTZ_UPDATE)</b>
