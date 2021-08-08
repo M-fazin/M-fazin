@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 
 #### Please Follow Me & Star My All [Repositories](https://github.com/M-fazin?tab=repositories)
 
+---
+
 ### You Can Contact Me 👇
 
 [![Fazin Telegram Bot](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/M_fazin_bot)
@@ -45,11 +47,8 @@ Here are some ideas to get you started:
 
 
 ### Programming Language ⚙️
-    href="https://www.python.org" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Python-black?&style=for-the-badge&logo=python"
-        />
-</p>
+! [Python Logo](https://telegra.ph/file/5080f69ba361f95b463e6.jpg)
+Format: ![Python](https://telegra.ph/file/5080f69ba361f95b463e6.jpg)
 
 ---
 
