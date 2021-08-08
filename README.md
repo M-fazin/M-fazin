@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **FazinEk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,11 +18,15 @@ Here are some ideas to get you started:
 
 # Hello Everyone, Welcome To My [Github Page](https://github.com/M-fazin).
 
+### Details About Me 🎙️
+
 ## Hey, My Name Is [M_Fazin](https://telegram.dog/M_fazin)
 
 - 🔭 I’m currently working on <b>[EK BOTZ PROJECT](https://t.me/EKBOTZ_UPDATE)</b> 😋.
 
 - 🌱 I’m currently learning python
+
+- 📖 I’m A Student
 
 - 👯 I’m looking to collaborate on 🤷🏻‍♂️
 
@@ -32,7 +36,7 @@ Here are some ideas to get you started:
 
 ---
 
-#### Please Follow Me & Star My All [Repositories](https://github.com/M-fazin/)
+#### Please Follow Me & Star My All [Repositories](https://github.com/M-fazin?tab=repositories)
 
 ### You Can Contact Me 👇
 
@@ -41,7 +45,7 @@ Here are some ideas to get you started:
 
 
 ### Programming Language ⚙️
-    <a href="https://www.python.org" target="_blank">
+    href="https://www.python.org" target="_blank">
         <img
             src="https://img.shields.io/badge/Python-black?&style=for-the-badge&logo=python"
         />
