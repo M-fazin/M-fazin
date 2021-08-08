@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 
 ### Programming Language ⚙️
 ! [Python Logo](https://telegra.ph/file/5080f69ba361f95b463e6.jpg)
+Format: ![Python](https://telegra.ph/file/5080f69ba361f95b463e6.jpg)
 
 ---
 
