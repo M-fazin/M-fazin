@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
 
+- ⚡ Fun fact: I’m Noob 
+
 - 📫 How to reach me: [@M_fazin](https://telegram.dog/M_fazin)(Telegram)
 
 ---
@@ -54,13 +56,8 @@ Here are some ideas to get you started:
 
 
 
-# Channel
+# Channels & Groups
 • <b>[EK BOTZ PROJECT](https://t.me/EKBOTZ_UPDATE)</b>
-
-# Support
 • <b>[EK BOTZ TALKS](https://t.me/EKBOTZ_SUPPORT)</b>
-
-# SocialMediaDL Group
-• <b>[SocialMediaDL](https://t.me/SocialMediaDL)</b>
 
 
