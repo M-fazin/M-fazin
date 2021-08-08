@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 ### Programming Language ⚙️
-Format: ![Python](https://telegra.ph/file/5080f69ba361f95b463e6.jpg)
+![Python](https://telegra.ph/file/5080f69ba361f95b463e6.jpg)
 
 ---
 
