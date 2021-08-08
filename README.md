@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
+# Hello Everyone, Welcome To My [Github Page](https://github.com/M-fazin).
+
 ## Hey, My Name Is [M_Fazin](https://telegram.dog/M_fazin)
 
 - 🔭 I’m currently working on <b>[EK BOTZ PROJECT](https://t.me/EKBOTZ_UPDATE)</b> 😋.
@@ -28,14 +30,17 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [@M_fazin](https://telegram.dog/M_fazin)(Telegram)
 
+---
+
+#### Please Follow Me & Star My All [Repositories](https://github.com/M-fazin/)
+
 ### You Can Contact Me 👇
 
 [![Fazin Telegram Bot](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/M_fazin_bot)
 
 
 
-### <h2 align="center">Programming Language ⚙️</h2>
-<p align="center">
+### Programming Language ⚙️
     <a href="https://www.python.org" target="_blank">
         <img
             src="https://img.shields.io/badge/Python-black?&style=for-the-badge&logo=python"
