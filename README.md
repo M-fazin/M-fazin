@@ -44,15 +44,9 @@ Here are some ideas to get you started:
 
 # Public Projects
 
-<details>
-  <summary><b>Public Gists</b></summary>
-<br>
-
-<p align="left">
-  [Password Generator](https://gist.github.com/M-fazin/af25f6bbfd1a96750d160d5f5e9b09c1)
-</p>
-
-</details>
+### Public Gists
+- [Password Generator](https://gist.github.com/M-fazin/af25f6bbfd1a96750d160d5f5e9b09c1)
+- [stars](https://gist.github.com/M-fazin/)
 
 ---
 
