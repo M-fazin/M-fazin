@@ -42,6 +42,20 @@ Here are some ideas to get you started:
 
 ---
 
+# Public Projects
+
+<details>
+  <summary><b>Public Gists</b></summary>
+<br>
+
+<p align="left">
+  [Password Generator](https://gist.github.com/M-fazin/af25f6bbfd1a96750d160d5f5e9b09c1)
+</p>
+
+</details>
+
+---
+
 ### You Can Contact Me 👇
 
 [![Fazin Telegram Bot](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/M_fazin_bot)
