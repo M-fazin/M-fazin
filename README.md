@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ### Public Gists
 - [Password Generator](https://gist.github.com/M-fazin/af25f6bbfd1a96750d160d5f5e9b09c1)
-- [stars](https://gist.github.com/M-fazin/)
+- [stars](https://gist.github.com/M-fazin/baf4e9a6c578aacdd630a79fb42b18b8)
 
 ---
 
