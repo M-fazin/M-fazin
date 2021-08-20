@@ -51,13 +51,13 @@ Here are some ideas to get you started:
 
 ### You Can Contact Me 👇
 
-[![Fazin Telegram Bot](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/M_fazin_bot)
+[![Telegram](https://img.shields.io/badge/Telegram-2EA3E6?&style=for-the-badge&logo=telegram)](https://telegram.dog/M_fazin_bot)
 
 ---
 
 ### Programming Language ⚙️
 
-![Python](https://telegra.ph/file/5080f69ba361f95b463e6.jpg)
+[![Python](https://img.shields.io/badge/Python-%2314354C?&style=for-the-badge&logoColor=white&logo=python)](https://www.python.org)
 
 ---
 
