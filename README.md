@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ### You Can Contact Me 👇
 
-[![Fazin Telegram Bot](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/M_fazin_bot)
+[![Fazin Telegram Bot](https://img.shields.io/badge/Telegram-2EA3E6?&style=for-the-badge&logo=telegram)](https://telegram.dog/M_fazin_bot)
 
 ---
 
