@@ -60,6 +60,9 @@ Here are some ideas to get you started:
 
 ---
 
+### Profile View Count
+https://profile-counter.glitch.me/{M-fazin}/count.svg
+
 
 
 
