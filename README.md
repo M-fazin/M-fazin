@@ -20,6 +20,14 @@ Here are some ideas to get you started:
 
 ### Details About Me 🎙️
 
+- Name : Muhammed Fazin E.K
+- Age : 15
+- Date Of Birth : 22/05/2006
+- Location : India/Kerala/Malappuram
+- College :[Manhajur Rashad Islamic College](https://youtube.com/user/Manhajchelembra)
+
+---
+
 ## Hey, My Name Is [M_Fazin](https://telegram.dog/M_fazin)
 
 - 🔭 I’m currently working on <b>[EK BOTZ PROJECT](https://t.me/EKBOTZ_UPDATE)</b> 😋.
