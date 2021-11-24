@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 ## Public Projects
 
 - [Password Generator Bot](https://github.com/M-fazin/Password-Generator-Bot) - Repo
+- [Lyrics-Search-Bot](https://github.com/M-fazin/Lyrics-Search-Bot) - Repo
 - [stars](https://gist.github.com/M-fazin/baf4e9a6c578aacdd630a79fb42b18b8) - Gist
 
 ---
