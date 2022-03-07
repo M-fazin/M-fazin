@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 
 ### Programming Language ⚙️
 ![Python](https://telegra.ph/file/5080f69ba361f95b463e6.jpg)
+![certificate](https://www.sololearn.com/certificates/course/en/20801916/1073/landscape/png) 
 
 ---
 
