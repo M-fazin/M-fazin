@@ -65,19 +65,22 @@ Here are some ideas to get you started:
 ---
 
 ### Programming Language ⚙️
-![Python](https://telegra.ph/file/5080f69ba361f95b463e6.jpg)
-![certificate](https://www.sololearn.com/certificates/course/en/20801916/1073/landscape/png) 
+![Python](https://img.shields.io/badge/Python-2EA3E6?&style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/Html-2EA3E6?&style=for-the-badge&logo=html)
+
 
 ---
 
-### Profile View Count
-![Visitor Count](https://profile-counter.glitch.me/{M-fazin}/count.svg) 
+### Certificate 
+! [certification](https://www.sololearn.com/certificates/course/en/20801916/1157/landscape/png) 
+![certificate](https://www.sololearn.com/certificates/course/en/20801916/1073/landscape/png) 
+
+---
 
 
 
 
 # Channels & Groups
 • <b>[EK BOTZ PROJECT](https://t.me/EKBOTZ_UPDATE)</b>
-• <b>[EK BOTZ TALKS](https://t.me/EKBOTZ_SUPPORT)</b>
 
 
