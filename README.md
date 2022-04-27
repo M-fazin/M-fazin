@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Certificate 
+### Certificates 
 ![certification](https://www.sololearn.com/certificates/course/en/20801916/1157/landscape/png) 
 ![certificate](https://www.sololearn.com/certificates/course/en/20801916/1073/landscape/png) 
 
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 
 
-# Channels & Groups
+# Channel
 • <b>[EK BOTZ PROJECT](https://t.me/EKBOTZ_UPDATE)</b>
 
 
