@@ -66,13 +66,13 @@ Here are some ideas to get you started:
 
 ### Programming Language ⚙️
 ![Python](https://img.shields.io/badge/Python-2EA3E6?&style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/Html-2EA3E6?&style=for-the-badge&logo=html)
+![HTML](https://img.shields.io/badge/HTML-2EA3E6?&style=for-the-badge&logo=html)
 
 
 ---
 
 ### Certificate 
-! [certification](https://www.sololearn.com/certificates/course/en/20801916/1157/landscape/png) 
+![certification](https://www.sololearn.com/certificates/course/en/20801916/1157/landscape/png) 
 ![certificate](https://www.sololearn.com/certificates/course/en/20801916/1073/landscape/png) 
 
 ---
