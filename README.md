@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hello Everyone, Welcome To My [Github Page](https://github.com/M-fazin).
+# Hello Everyone, Welcome 
 
 ### Details About Me 🎙️
 
@@ -52,9 +52,8 @@ Here are some ideas to get you started:
 
 ## Public Projects
 
-- [Password Generator Bot](https://github.com/M-fazin/Password-Generator-Bot) - Repo
-- [Lyrics-Search-Bot](https://github.com/M-fazin/Lyrics-Search-Bot) - Repo
-- [stars](https://gist.github.com/M-fazin/baf4e9a6c578aacdd630a79fb42b18b8) - Gist
+- [Password Generator Bot](https://github.com/M-fazin/Password-Generator-Bot)
+- [Lyrics-Search-Bot](https://github.com/M-fazin/Lyrics-Search-Bot)
 
 ---
 
@@ -65,8 +64,8 @@ Here are some ideas to get you started:
 ---
 
 ### Programming Language ⚙️
-![Python](https://img.shields.io/badge/Python-2EA3E6?&style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/HTML-2EA3E6?&style=for-the-badge&logo=html)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 ---
