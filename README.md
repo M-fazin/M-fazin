@@ -55,8 +55,6 @@ Here are some ideas to get you started:
 - [Password Generator Bot](https://github.com/M-fazin/Password-Generator-Bot)
 - [Lyrics-Search-Bot](https://github.com/M-fazin/Lyrics-Search-Bot)
 
-a:link, a:visited { background-color:#ff0000; color: white; padding: 14px 25px; text-align: center; text-decoration: none; display: inline-block; } a:hover, a:active { background-color: red; } [View More](projects.m-fazin.me)
-
 ---
 
 ### You Can Contact Me 👇
