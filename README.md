@@ -55,6 +55,10 @@ Here are some ideas to get you started:
 - [Password Generator Bot](https://github.com/M-fazin/Password-Generator-Bot)
 - [Lyrics-Search-Bot](https://github.com/M-fazin/Lyrics-Search-Bot)
 
+Lorem ipsum dolor sit amet.
+
+[Click me](http://www.google.com){: .btn}
+
 ---
 
 ### You Can Contact Me 👇
