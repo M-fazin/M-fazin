@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 Lorem ipsum dolor sit amet.
 
-[Click me](http://www.google.com){: .btn}
+<button name="button" onclick="http://www.google.com">Click me</button>
 
 ---
 
