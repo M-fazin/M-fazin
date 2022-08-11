@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 - [Lyrics-Search-Bot](https://github.com/M-fazin/Lyrics-Search-Bot)
 
 
-<button name="button" onclick="https://projects.m-fazin.me">View More</button>
+<button name="button" href="https://projects.m-fazin.me">View More</button>
 
 ---
 
