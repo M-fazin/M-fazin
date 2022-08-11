@@ -55,9 +55,8 @@ Here are some ideas to get you started:
 - [Password Generator Bot](https://github.com/M-fazin/Password-Generator-Bot)
 - [Lyrics-Search-Bot](https://github.com/M-fazin/Lyrics-Search-Bot)
 
-Lorem ipsum dolor sit amet.
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+<button name="button" onclick="https://projects.m-fazin.me">View More</button>
 
 ---
 
