@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 ### Details About Me 🎙️
 
 - <b>Name</b> : Muhammed Fazin E.K
-- <b>Age</b> : 16
+
 - <b>Date Of Birth</b> : 22/05/2006
-- <b>Location</b> : India/Kerala/Malappuram
-- <b>College</b> :[Manhajur Rashad Islamic College](https://youtube.com/user/Manhajchelembra)
 
 ---
 
